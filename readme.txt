@@ -3,5 +3,5 @@ This template I customized was provided by Styleshout.
 
 LICENSE:
 
-This free resource is provided by StyleShout.com and is free to use in 
+This free resource is provided by https://StyleShout.com and is free to use in 
 both personal and commercial projects.
